@@ -4689,11 +4689,13 @@ input, select, textarea {
 
 	}
 
-/ Reduce spacing for SQL project card /
-.sql-project .image.main {
-  margin-bottom: 1.5rem;
+/* Reduce spacing for SQL project card on the homepage */
+.post.sql-project .image.main {
+  margin-bottom: 1rem !important;
 }
 
-.sql-project .actions.special {
-  margin-top: 0;
+.post.sql-project .actions.special {
+  margin-top: 0 !important;
 }
+
+
