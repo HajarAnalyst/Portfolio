@@ -1,8 +1,8 @@
-# Hajar – Data Analyst Portfolio
+Hajar – Data Analyst Portfolio
 
 This repository contains the source code of my personal data analytics portfolio website.
 
-🌐 Live website:  
+Live website:  
 https://hajaranalyst.github.io/Portfolio/
 
 The portfolio showcases:
@@ -15,3 +15,4 @@ Technologies used:
 - GitHub Pages
 
 Each project links to its dedicated GitHub repository for full documentation.
+
